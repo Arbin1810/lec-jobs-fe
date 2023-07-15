@@ -70,7 +70,7 @@ class Postbar extends Component {
           </ul>
         </div>
         <div className="job_descp">
-          <h3>Senior Wordpress Developer</h3>
+          <h3>Senior Fullstack Developer</h3>
           <ul className="job-dt">
             <li>
               <a href="./index.html#" title="">
@@ -82,9 +82,8 @@ class Postbar extends Component {
             </li>
           </ul>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-            luctus hendrerit metus, ut ullamcorper quam finibus at. Etiam id
-            magna sit amet...
+            A full-stack developer is skilled in databases, servers, system
+            engineering, architecting, client communication, and user interface
             <a href="./index.html#" title="">
               view more
             </a>

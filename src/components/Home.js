@@ -56,10 +56,11 @@ class Home extends Component {
                         <div className="jobs-list">
                           <div className="job-info">
                             <div className="job-details">
-                              <h3>Senior Product Designer</h3>
+                              <h3>Senior Fullstack Developer</h3>
                               <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit..
+                                A full-stack developer is skilled in databases,
+                                servers, system engineering, architecting,
+                                client communication, and user interface
                               </p>
                             </div>
                             <div className="hr-rate">
@@ -197,7 +198,7 @@ class Home extends Component {
                             <img src="./images/s3.png" alt="" />
                             <div className="sgt-text">
                               <h4>Poonam</h4>
-                              <span>Wordpress Developer</span>
+                              <span>Qbasic Export </span>
                             </div>
                             <span>
                               <i className="la la-plus"></i>
@@ -413,7 +414,7 @@ class Home extends Component {
                   id="mCSB_1"
                   className="mCustomScrollBox mCS-dark mCSB_vertical mCSB_inside"
                   style={{ maxHeight: "none" }}
-                  tabindex="0"
+                  tabIndex="0"
                 >
                   <div
                     id="mCSB_1_container"
@@ -534,7 +535,7 @@ class Home extends Component {
                   id="mCSB_2"
                   className="mCustomScrollBox mCS-dark mCSB_vertical mCSB_inside"
                   style={{ maxHeight: "none" }}
-                  tabindex="0"
+                  tabIndex="0"
                 >
                   <div
                     id="mCSB_2_container"
