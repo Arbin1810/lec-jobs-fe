@@ -190,7 +190,10 @@ class Header extends Component {
             </div>
             <div className="user-account">
               <div className="user-info">
-                <img src="m-img4.png" alt="" />
+                <img
+                  src={"./images/" + this.props.user.username + ".jpg"}
+                  alt=""
+                />
                 <a href="./index.html#" title="">
                   Arbin
                 </a>
